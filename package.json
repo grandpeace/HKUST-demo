@@ -1,0 +1,21 @@
+{
+  "name": "gangkeda-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --port 2000",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "parcel": "^2.8.3",
+    "three": "^0.151.3"
+  },
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
